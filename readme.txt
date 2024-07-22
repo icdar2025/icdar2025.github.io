@@ -1,1 +1,0 @@
-The file "index.html" is in the path ".\icdar2025.org\submissions\call-for-papers\index.html".
